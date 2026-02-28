@@ -26,6 +26,7 @@ The dashboard includes KPI cards showing Total Revenue, Total Quantity, Average 
 Total Revenue reached $9,726,201 with 5162413 units sold. The United Kingdom dominates with approximately 85% of revenue, though international customers show higher average order values. Revenue peaks sharply in November, suggesting strong holiday seasonality. Top products are predominantly homeware and gift items like cake stands and decorative lights. Cancellations, while only 1.85% of transactions, cluster around specific products that may require operational review.
 
 💡 Recommendations
+
 Focus marketing efforts on November holiday season, investigate top cancelled products for quality issues, target high-AOV international countries like Netherlands and Ireland, develop loyalty programs for one-time buyers, and consider bundling low-margin items with best-sellers.
 
 👤 Author
