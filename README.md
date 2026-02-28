@@ -29,5 +29,5 @@ Total Revenue reached $9,726,201 with 5162413 units sold. The United Kingdom dom
 
 Focus marketing efforts on November holiday season, investigate top cancelled products for quality issues, target high-AOV international countries like Netherlands and Ireland, develop loyalty programs for one-time buyers, and consider bundling low-margin items with best-sellers.
 
-👤 Author
+👤 Author:
 PATIENCE MABUZA
