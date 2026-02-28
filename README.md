@@ -1,5 +1,6 @@
 # Task-1--FUTURE_DS_01
 Business Sales Performance Analytics
+
 📌 Project Overview
 This project analyzes one year of transaction data (December 2010 – December 2011) from a UK-based online retailer that specializes in unique all-occasion gifts. The business primarily sells to wholesalers but also serves individual customers. The goal was to clean the raw data, extract meaningful business insights, and build an interactive Excel dashboard that answers key questions: Which products generate the most revenue? How do sales trend over time? Which regions are most profitable? Where should the business focus to grow faster?
 
